@@ -1,9 +1,9 @@
 # File tạm thời, biên dịch
-*.exe
-*.o
-*.obj
-*.log
-*.tmp
+#*.exe
+#*.o
+#*.obj
+#*.log
+#*.tmp
 
 # VSCode config
-.vscode/
+#.vscode/

@@ -6,4 +6,4 @@
 *.tmp
 
 # VSCode config
-.vscode/
+#.vscode/
